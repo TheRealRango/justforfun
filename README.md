@@ -1,2 +1,2 @@
 # justforfun
-some random programming
+some random private programming
